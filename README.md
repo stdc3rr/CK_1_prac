@@ -6,4 +6,4 @@
 
 ## Ссылки
 
-- [Публичная страница на GitHub Pages](stdc3rr.github.io/)
+- [Публичная страница на GitHub Pages](shttps://stdc3rr.github.io/CK_1_prac/)
