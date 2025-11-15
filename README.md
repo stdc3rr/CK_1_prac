@@ -6,5 +6,4 @@
 
 ## Ссылки
 
-- [Публичная страница на GitHub Pages](https://stdcerr.github.io/
-  ИМЯ_РЕПОЗИТОРИЯ/)
+- [Публичная страница на GitHub Pages](stdc3rr.github.io/)
